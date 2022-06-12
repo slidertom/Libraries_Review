@@ -7,7 +7,7 @@ https://grid.glideapps.com/
             - Excel copy/paste   
             - Nice selected cell indicator 
 
-#carousels 
+#Carousels 
 https://github.com/naver/egjs-flicking - Flexible web carousel control  
 no dependencies on frameworks
 
