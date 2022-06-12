@@ -2,7 +2,11 @@
 
 #Grids   
 https://grid.glideapps.com/  
-            - React based  
+            - React based  - quite limited usage
             - Quite fast  
             - Excel copy/paste   
-            - Nice selected cell indicator  
+            - Nice selected cell indicator 
+
+#carousels 
+https://github.com/naver/egjs-flicking - Flexible web carousel control
+no dependencies on frameworks
