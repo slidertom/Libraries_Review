@@ -8,5 +8,6 @@ https://grid.glideapps.com/
             - Nice selected cell indicator 
 
 #carousels 
-https://github.com/naver/egjs-flicking - Flexible web carousel control
+https://github.com/naver/egjs-flicking - Flexible web carousel control  
 no dependencies on frameworks
+
