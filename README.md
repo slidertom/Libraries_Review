@@ -9,5 +9,6 @@ https://grid.glideapps.com/
 
 #carousels 
 https://github.com/naver/egjs-flicking - Flexible web carousel control  
+
 no dependencies on frameworks
 
