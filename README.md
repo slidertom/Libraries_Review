@@ -2,7 +2,7 @@
 
 #Grids   
 https://grid.glideapps.com/  
-            - React based  - quite limited usage
+            - React based  - quite limited usage  
             - Quite fast  
             - Excel copy/paste   
             - Nice selected cell indicator 
