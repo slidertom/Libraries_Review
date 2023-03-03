@@ -2,14 +2,14 @@
 
 #Grids   
 https://tabulator.info/
-the best one js grid
-nice architecture, no extra useless dependencies on frameworks or toolkits
-quite rich 
-fast
+ - the best one js grid
+ - nice architecture, no extra useless dependencies on frameworks or toolkits
+ - quite rich 
+ - fast
 
 https://mottie.github.io/tablesorter/docs/
-extremely simple 
-the fastest solution
+ - extremely simple 
+ - the fastest js solution
 
 https://grid.glideapps.com/  
             - React based  - quite limited usage  
@@ -19,8 +19,8 @@ https://grid.glideapps.com/
 
 #Carousels    
 https://github.com/naver/egjs-flicking - Flexible web carousel control  
-no dependencies on frameworks
+ - no dependencies on frameworks
 
 #2D Drawing
 https://idraw.js.org/
-someting like visio (very light and simple)
+ - someting like visio (very light and simple)
